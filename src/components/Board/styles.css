@@ -1,0 +1,27 @@
+.board
+{
+    padding-top:3rem;
+}
+.board-row
+ {   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+h1{
+    font-size: 3rem;
+    color : white;
+    display: flex;
+    justify-content: center;
+  }
+
+.winner-text{
+    padding-top: 4rem;
+    font-size: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+  }
